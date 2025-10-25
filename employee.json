@@ -1,0 +1,22 @@
+{
+  "employee": {
+    "full_name": "Иванов Сергей Петрович",
+    "position": "Ведущий инженер по компьютерному зрению",
+    "company": "ООО «Рога и Копыта»",
+    "department": "Департамент компьютерного зрения",
+    "office_location": "Новосибирск, технопарк «Идея»",
+    "contact": {
+      "email": "sergey.ivanov@t1dp.ru",
+      "telegram": "@sergey_vision"
+    },
+    "branding": {
+      "logo_url": "https://example.com/logo.png",
+      "corporate_colors": {
+        "primary": "#0052CC",
+        "secondary": "#00B8D9"
+      },
+      "slogan": "Инновации в каждый кадр"
+    },
+    "privacy_level": "medium"
+  }
+}
